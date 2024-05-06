@@ -1,5 +1,5 @@
 # BERDNet
-Deep-learning-assisted error diffusion algorithm for high-speed computer-generated holography
+Deep-learning-assisted error diffusion algorithm for high-quality computer-generated holography
 
 
 Before running, please download the following networks for prediction or retraining. Matlab version: 2021a.
